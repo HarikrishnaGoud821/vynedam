@@ -1,0 +1,13 @@
+/* src/RegistrationPage.css */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+input, button {
+  font-family: inherit;
+}
+
+table {
+  border-collapse: collapse;
+}
